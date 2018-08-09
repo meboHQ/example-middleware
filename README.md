@@ -15,7 +15,7 @@ NODE_ENV=development node .
 - Node 8 or greater
 - Express 4 or greater
 
-### Action
+## Action
 Sum
 ```
 GET: http://localhost:8080/sum?a=1&b=2
